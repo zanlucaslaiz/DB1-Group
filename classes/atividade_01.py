@@ -1,4 +1,4 @@
-# 1 Escreva uma classe em Python para converter um número inteiro em um numeral romano.
+# Escreva uma classe em Python para converter um número inteiro em um numeral romano.
 
 class InteiroRomano:
     def intToRoman(self, n):
