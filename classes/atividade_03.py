@@ -1,13 +1,11 @@
 # Escreva uma classe em Python que leia dois números e implemente uma exponenciação.
 
-class Exponenciacao:
-    def __init__(self, num1) -> None:
-        self.num1 = num1
-    
-    def exponencial(self, num2):
-        if isinstance(num2, Exponenciacao):               
-            exp = self.num**num2.num
-        else:
-            exp = self.num**num2
+class Exponencial:
+    def elevacao(num1=1, num2=1):
+        resposta = num1 ** num2
+        return resposta
+        
 
-        return exp
+num1 = int(input('numero:'))
+num2 = int(input('numero: '))
+print(Exponencial.elevacao(num1, num2))
