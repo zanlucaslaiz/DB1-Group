@@ -1,1 +1,15 @@
-exercicios propostos para treinar Tuplas, listas e dicionarios.
+Exercicios propostos para treinar Tuplas, listas e dicionarios.
+
+01 - Soma de todos os itens de uma lista.
+02 - Mutiplicação do itens de uma lista.
+03 - Maior e menor de uma lista.
+04 - Conte o número de caracteres de uma string. 
+05 - Conte quantas string tenham tamanho maior que 2 e o primeiro e ultimo caracteres sejam iguais.
+06 - Ordem crescente uma lista de tupla
+07 - Adicione uma chave (key) a um dicionário
+08 - Concatenando os dicionários e criando um novo
+09 - Ler chave e valores / criando e analisando dicionario
+10 - Itere em um dicionário utilizando loops
+11 - Remova itens duplicados de uma lista.
+12 - Verifique se uma lista está vazia ou não.
+13 - Clone ou copie uma lista.
